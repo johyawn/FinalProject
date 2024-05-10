@@ -23,5 +23,3 @@ To get started with this project, follow these steps:
 This project is built using Unity version 2022.3.18f1.
 
 ## Additional Information
-
-Add any additional information or instructions here.
